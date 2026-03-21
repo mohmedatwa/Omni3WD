@@ -1,0 +1,11 @@
+[workspace]
+authors = ["Mohamed Atwa <mohamedatwa50@hotmail.com>"]
+channels = ["conda-forge"]
+name = "Omni3Wheel"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+numpy = ">=2.4.3,<3"
