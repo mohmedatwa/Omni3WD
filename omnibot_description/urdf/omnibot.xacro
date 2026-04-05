@@ -5,4 +5,5 @@
     <xacro:include filename="$(find omnibot_description)/urdf/mech/omnibot_base.xacro" />
     <xacro:include filename="$(find omnibot_description)/urdf/mech/omnibot_wheel.xacro" />
     <xacro:include filename="$(find omnibot_description)/urdf/omnibot_ros2_control.xacro" />
+    <xacro:include filename="$(find omnibot_description)/urdf/omnibot_gazebo.xacro" />
 </robot>
