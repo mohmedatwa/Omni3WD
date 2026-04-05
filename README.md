@@ -45,7 +45,7 @@ This robot uses three omni wheels placed at **120°** to achieve full omnidirect
 
 ## ⚙️ Requirements
 
-- Ubuntu 22.04
+- Ubuntu 24.04
 - ROS2 (Humble / Jazzy)
 - Gazebo (Fortress / Harmonic)
 - colcon build tools
